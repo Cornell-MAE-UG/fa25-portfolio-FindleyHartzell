@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Findley Hartzell - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,30 +8,30 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [fgh37@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +1 202 297 5533
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in Math and Physics. Passionate about rowing, cycling, motor vechicles, and learning to develop new skills  and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 2.872/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **[Bethesda-Chevy Chase High School]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2024]
 
 ---
 
 #### Skills
 - **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:**  
 
 ---
 
@@ -63,7 +63,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
+- Member of Cornell Heavyweight Crew 
 - Volunteer for [Event/Organization Name]  
 
 ---

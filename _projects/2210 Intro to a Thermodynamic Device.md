@@ -69,9 +69,7 @@ Mass Flow Rates in = Mass Flow Rates out = Mass Flow Rate
 
 ### 4.2 Energy Balance (Steady-Flow)
 
-The general steady-flow energy equation is:
-
-Sum of mass flow rates in = sum of mass flow rates out
+The general steady-flow energy balance states that the net heat transfer minus the net work transfer, plus the energy carried in by mass flow, equals the energy carried out by mass flow.
 
 For an ideal throttling device:
 - Heat transfer is negligible (Q̇ ≈ 0)

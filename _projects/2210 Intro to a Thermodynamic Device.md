@@ -3,16 +3,12 @@ layout: project
 title: 2210 Intro to a Thermodynamic Device
 description: Thermodynamics Intro to Portfolio Project
 technologies: [drawings found on internet ]
-image: /assets/images/Orginal Linear Actuator Design.jpg 
+image: /assets/images/Expansion-Valve.png 
 ---
 ## 1. Device Overview
 
 A throttling device is a passive component used to reduce the pressure of a flowing fluid. It is widely used in engineering applications where pressure control is required.
 
-Common examples include:
-- Capillary tubes
-- Expansion valves
-- Pressure-reducing valves in piping systems
 
 Key characteristics:
 - No shaft work
@@ -52,7 +48,8 @@ The throttling device is modeled as a **steady-flow control volume (CV)** with:
 - No shaft work
 - Negligible heat transfer with the surroundings
 
-A control-volume diagram showing inlet and outlet states will be added later.
+<img src="/assets/images/Throttling Device.jpg" width="300">
+The image above shows some examples of types of valves. 
 
 ---
 
@@ -122,9 +119,8 @@ Entropy increases across the device due to viscous dissipation and internal fric
 
 ## 5. Physical Interpretation
 
-Although no useful work is produced, throttling significantly alters fluid properties:
-- Pressure reduction may cause cooling
-- Liquids may partially flash into vapor
+Although no work is produced, throttling alters fluid properties:
+- Pressure reduction can cause cooling
 - Increased entropy reflects irreversible energy degradation
 
 The throttling device provides a clear illustration of the second law of thermodynamics.
@@ -140,10 +136,10 @@ If the inlet pressure is increased while the outlet pressure remains fixed:
 - Entropy generation increases
 - The outlet temperature may decrease further, depending on fluid properties
 
-This demonstrates how operating conditions influence thermodynamic behavior even in a simple device.
+This demonstrates how operating conditions influence thermodynamic behavior even in a simple device like a throttle.
 
 ---
 
 ## 7. Conclusion
 
-A generic throttling device is one of the simplest thermodynamic components, yet it clearly demonstrates core concepts from thermodynamics. By applying mass, energy, and entropy balances to a single device, the physical meaning of an isenthalpic and irreversible process becomes clear. This makes the throttling device an ideal example for connecting thermodynamic theory to real engineering hardware.
+A throttling device is one of the simplest thermodynamic components, yet it demonstrates many core concepts from thermodynamics. By applying mass, energy, and entropy balances to a single device, the physical meaning of an isenthalpic and irreversible process becomes clear. This makes the throttling device an ideal example for connecting thermodynamic theory to real engineering hardware.

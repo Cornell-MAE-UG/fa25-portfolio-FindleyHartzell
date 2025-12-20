@@ -3,12 +3,11 @@ layout: project
 title: 2210 Intro to a Thermodynamic Device
 description: Thermodynamics Intro to Portfolio Project
 technologies: [drawings found on internet ]
-image: /assets/images/Expansion-Valve.png 
+image: /assets/images/Throttling Device.jpg  
 ---
 ## 1. Device Overview
 
 A throttling device is a passive component used to reduce the pressure of a flowing fluid. It is widely used in engineering applications where pressure control is required.
-
 
 Key characteristics:
 - No shaft work
@@ -48,8 +47,7 @@ The throttling device is modeled as a **steady-flow control volume (CV)** with:
 - No shaft work
 - Negligible heat transfer with the surroundings
 
-<img src="/assets/images/Throttling Device.jpg" width="300">
-The image above shows some examples of types of valves. 
+The image in the Introduction shows examples of valves modeled as a control volume.
 
 ---
 
@@ -59,15 +57,15 @@ The image above shows some examples of types of valves.
 
 For steady flow:
 
-\[
+$$
 \sum \dot{m}_{in} = \sum \dot{m}_{out}
-\]
+$$
 
 With one inlet and one outlet:
 
-\[
+$$
 \dot{m}_{in} = \dot{m}_{out} = \dot{m}
-\]
+$$
 
 ---
 
@@ -75,19 +73,19 @@ With one inlet and one outlet:
 
 The general steady-flow energy equation is:
 
-\[
-\dot{Q} - \dot{W} + \sum \dot{m} h_{in} = \sum \dot{m} h_{out}
-\]
+$$
+\sum \dot{Q} - \dot{W} + \sum \dot{m} h_{in} = \sum \dot{m} h_{out}
+$$
 
 For an ideal throttling device:
-- \( \dot{Q} \approx 0 \)
-- \( \dot{W} = 0 \)
+- Heat transfer is negligible: $\dot{Q} \approx 0$
+- No shaft work is done: $\dot{W} = 0$
 
 Thus, the energy balance reduces to:
 
-\[
+$$
 h_{in} = h_{out}
-\]
+$$
 
 This shows that throttling is an **isenthalpic process**.
 
@@ -97,21 +95,21 @@ This shows that throttling is an **isenthalpic process**.
 
 The steady-state entropy balance for a control volume is:
 
-\[
+$$
 0 = \sum \dot{m} s_{in} - \sum \dot{m} s_{out} + \sum \frac{\dot{Q}}{T} + \dot{S}_{gen}
-\]
+$$
 
 With negligible heat transfer:
 
-\[
+$$
 0 = \dot{m}(s_{in} - s_{out}) + \dot{S}_{gen}
-\]
+$$
 
 Since throttling is irreversible:
 
-\[
+$$
 \dot{S}_{gen} > 0
-\]
+$$
 
 Entropy increases across the device due to viscous dissipation and internal friction.
 

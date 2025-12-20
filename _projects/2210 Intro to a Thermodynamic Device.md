@@ -55,17 +55,15 @@ The image in the Introduction shows examples of valves modeled as a control volu
 
 ### 4.1 Mass Balance
 
-For steady flow:
+For steady flow, conservation of mass requires that the total mass flow rate entering the control volume equals the total mass flow rate leaving the control volume.
 
-$$
-\sum \dot{m}_{in} = \sum \dot{m}_{out}
-$$
+In symbolic form:
 
-With one inlet and one outlet:
+Sum of mass flow rates in = sum of mass flow rates out
 
-$$
-\dot{m}_{in} = \dot{m}_{out} = \dot{m}
-$$
+For a throttling device with one inlet and one outlet, this reduces to:
+
+ṁ_in = ṁ_out = ṁ
 
 ---
 
@@ -83,7 +81,7 @@ Thus, the energy balance reduces to:
 
 h_in = h_out
 
-This shows that throttling is an **isenthalpic process**.
+This shows that throttling is an **isenthalpic process**, meaning the specific enthalpy remains constant across the device.
 
 ---
 

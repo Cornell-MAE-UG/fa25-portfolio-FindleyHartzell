@@ -73,19 +73,15 @@ $$
 
 The general steady-flow energy equation is:
 
-$$
-\sum \dot{Q} - \dot{W} + \sum \dot{m} h_{in} = \sum \dot{m} h_{out}
-$$
+Sum of mass flow rates in = sum of mass flow rates out
 
 For an ideal throttling device:
-- Heat transfer is negligible: $\dot{Q} \approx 0$
-- No shaft work is done: $\dot{W} = 0$
+- Heat transfer is negligible (Q̇ ≈ 0)
+- No shaft work is done (Ẇ = 0)
 
 Thus, the energy balance reduces to:
 
-$$
-h_{in} = h_{out}
-$$
+h_in = h_out
 
 This shows that throttling is an **isenthalpic process**.
 
@@ -93,25 +89,17 @@ This shows that throttling is an **isenthalpic process**.
 
 ### 4.3 Entropy Balance
 
-The steady-state entropy balance for a control volume is:
+The steady-state entropy balance for a control volume states that the rate of entropy change is equal to the entropy carried in by mass flow minus the entropy carried out by mass flow, plus entropy transfer due to heat, plus entropy generation.
 
-$$
-0 = \sum \dot{m} s_{in} - \sum \dot{m} s_{out} + \sum \frac{\dot{Q}}{T} + \dot{S}_{gen}
-$$
+With negligible heat transfer, the entropy balance reduces to:
 
-With negligible heat transfer:
+entropy generation rate = ṁ (s_out − s_in)
 
-$$
-0 = \dot{m}(s_{in} - s_{out}) + \dot{S}_{gen}
-$$
+Since throttling is an irreversible process, the entropy generation rate satisfies:
 
-Since throttling is irreversible:
+Ṡ_gen > 0
 
-$$
-\dot{S}_{gen} > 0
-$$
-
-Entropy increases across the device due to viscous dissipation and internal friction.
+Entropy therefore increases across the device due to viscous dissipation and internal friction.
 
 ---
 

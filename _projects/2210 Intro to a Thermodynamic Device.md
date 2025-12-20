@@ -63,7 +63,7 @@ Sum of mass flow rates in = sum of mass flow rates out
 
 For a throttling device with one inlet and one outlet, this reduces to:
 
-ṁ_in = ṁ_out = ṁ
+Mass Flow Rates in = Mass Flow Rates out = Mass Flow Rate 
 
 ---
 

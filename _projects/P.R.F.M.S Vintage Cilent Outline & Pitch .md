@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Client Outreach for MAE 2250 Open Design Project
-description: 
+title: P.R.F.M.S Vintage Cilent Outline & Pitch 
+description: P.R.F.M.S Vintage Cilent Outline & Pitch 
 technologies: 
 image: /assets/images/SLF on Grape Vines.jpg
 ---

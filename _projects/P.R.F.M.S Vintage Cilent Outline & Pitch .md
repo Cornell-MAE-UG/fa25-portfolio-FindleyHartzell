@@ -2,7 +2,7 @@
 layout: project
 title: P.R.F.M.S Vintage Cilent Outline & Pitch 
 description: P.R.F.M.S Vintage Cilent Outline & Pitch 
-technologies: 
+
 image: /assets/images/SLF on Grape Vines.jpg
 ---
 # Suction For Removal: Spotted Lantern Fly Mitigation

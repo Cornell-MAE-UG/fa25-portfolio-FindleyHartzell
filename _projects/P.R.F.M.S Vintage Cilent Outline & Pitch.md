@@ -1,6 +1,15 @@
 ---
 layout: project
-title: Spotted Lantern Fly Cilent Outline & Pitch MAE 2250
-description: P.R.F.M.S Vintage Cilent Outline
-image: /assets/images/Throttling Device.jpg  
-pdf: /assets/PDF/ODP 3 Client Outline & Pitch.pdf
+title: Client Outreach for MAE 2250 Open Design Project
+description: 
+technologies: 
+image: /assets/images/SLF on Grape Vines.jpg
+pdf: /assets/pdfs/ODP 3 Client Outline & Pitch.pdf
+---
+
+
+
+
+
+
+# Make a new folder under assets called pdfs and upload pdf to that folder

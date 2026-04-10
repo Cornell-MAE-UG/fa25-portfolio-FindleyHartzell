@@ -3,7 +3,7 @@ layout: project
 title: MAE 2250 Open Design Project
 description:
 technologies:
-image: /assets/images/SLF on Grape Vines.jpg
+image: /assets/images/SLF_On_Finger.jpg
 toc: False
 ---
 
@@ -19,4 +19,4 @@ We are solving the issue of spotted lanternflies' presence in grape collection b
 
 
 ## Milestone 2.
-[First Functional Prototype]({{ "/projects/ODP5FunctionalPrototype" | relative_url }})  
+[First Functional Prototype]({{ "/projects/ODP5FunctionalPrototype" | relative_url }})

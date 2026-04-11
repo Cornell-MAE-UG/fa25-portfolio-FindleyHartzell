@@ -3,7 +3,7 @@ layout: project
 title: 1. Client Outreach For Open Design Project
 description:
 technologies:
-image: /assets/images/SLF on Grape Vines.jpg
+image: assets/images/SLF on Grape Vines.jpg
 toc: True
 ---
 
